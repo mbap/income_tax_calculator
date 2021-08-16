@@ -1,0 +1,11 @@
+taxes:
+ - fed
+ - state
+ - social security
+ - medicare
+ - ca sdi tax
+
+- benefits
+- retirement
+- other
+  - insurances.
